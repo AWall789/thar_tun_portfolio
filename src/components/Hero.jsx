@@ -11,7 +11,7 @@ export default function Hero() {
         <p className="hero-role font-semibold">{profile.role}</p>
         <SocialLinks />
       </div>
-      <img className="hero-portrait" src="/images/portrait.png" alt="Tomasz Gajda, developer and designer" fetchPriority="high" />
+      <img className="hero-portrait" src="/images/profile-photo.jpg" alt="Portfolio portrait" fetchPriority="high" />
     </div>
   </section>;
 }
