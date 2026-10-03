@@ -1,10 +1,10 @@
-// Personalize your portfolio here. Add real social URLs and an email when ready.
+// Personalize your portfolio here. Add remaining social URLs when ready.
 export const profile = {
-  name: 'Tomasz Gajda',
-  initials: 'TG',
+  name: 'Thar Tun',
+  initials: 'TT',
   role: 'Front-end Developer / UI Designer',
-  email: '',
-  github: '',
+  email: 'nicholaskhoon@gmail.com',
+  github: 'https://github.com/AWall789',
   linkedin: '',
   instagram: '',
   introduction: 'I turn ideas into thoughtful digital experiences. With a love for clean design and well-crafted code, I build websites that look good, feel natural, and work beautifully.',

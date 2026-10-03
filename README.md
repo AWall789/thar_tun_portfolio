@@ -29,5 +29,5 @@ Sample projects are design examples, not claims of completed client work. Replac
 ## Reference asset credits
 
 Design reference: Portfolio – Tomasz Gajda, Figma Community file 897605510384968096.
-Matching sample imagery sourced from https://github.com/shiinedev/portfolio-web and its public demo https://portfolio-web-sand-kappa.vercel.app/ . An explicit reuse license was not provided in that repository; replace the sample portrait and project images with your own before public publication.
+The hero portrait is Thar Tun's supplied image. Sample project imagery came from https://github.com/shiinedev/portfolio-web and its public demo https://portfolio-web-sand-kappa.vercel.app/ . An explicit reuse license was not provided in that repository; replace the sample project images with your own before public publication.
 Skill icons: Devicon (https://github.com/devicons/devicon), MIT licensed; brand marks remain the property of their owners.
