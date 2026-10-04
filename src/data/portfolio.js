@@ -3,7 +3,7 @@ export const profile = {
   name: "Thar Tun",
   initials: "TT",
   role: "Full-Stack Developer",
-  email: "nicholaskhoon@gmail.com",
+  email: "nicholaskhoon2005@gmail.com",
   github: "https://github.com/AWall789",
   instagram:
     "https://www.instagram.com/thartun.khoon?stkn=MTVyMnRoeW54N3p3Zg%3D%3D&utm_source=qr",
