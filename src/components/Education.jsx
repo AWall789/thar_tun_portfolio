@@ -1,4 +1,5 @@
 import SectionHeading from './SectionHeading';
+import CertificatesFolder from './CertificatesFolder';
 
 export default function Education() {
   return <section id="education" aria-labelledby="education-heading" className="education-section light-sections">
@@ -16,5 +17,6 @@ export default function Education() {
         <p className="education-card-note">Software development · Data · Networks · Cloud</p>
       </article>
     </div>
+    <CertificatesFolder />
   </section>;
 }

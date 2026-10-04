@@ -26,6 +26,8 @@ The contact form validates required fields. With an email configured, it opens t
 
 The education and project details were supplied by Thar Tun. The selected project cards have no demo or source links because none were provided for those specific projects.
 
+The Education section has an animated certificate folder. Original PDFs and their preview images are in `public/certificates/`. To add another certificate, place its PDF and preview image there, then add its details to the `certificates` list in `src/components/CertificatesFolder.jsx`. The two Pearson diplomas share one original five-page PDF; their links open the relevant certificate pages.
+
 ## Reference asset credits
 
 Design reference: Portfolio – Tomasz Gajda, Figma Community file 897605510384968096.
