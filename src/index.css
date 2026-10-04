@@ -29,7 +29,7 @@ button, a, input, textarea { outline-offset: 6px; }
 .hero-socials { margin-top: 90px; }
 .hero-socials a { background: #c6c6c6; padding: 10px; box-shadow: 0 3px 7px #0001; transition: transform .2s, background .2s; }
 .hero-socials a:hover { transform: translateY(-4px); background: #b7b7b7; }
-.hero-portrait { position: absolute; bottom: 0; right: 0; width: 75%; max-width: none; height: auto; }
+.hero-portrait { position: absolute; bottom: 0; right: 0; width: 67%; max-width: none; height: auto; }
 .introduction { padding: 45px max(6%, calc((100% - 1260px) / 2)); }
 .intro-watermark { position: absolute; right: 4%; top: -75px; font-size: 280px; font-weight: 800; color: #060606; transform: rotate(23deg); line-height: 1.4; border: 15px solid; border-radius: 55px; padding: 0 22px; }
 .bracket-button { border-left: 2px solid; border-right: 2px solid; padding: 7px 28px; font-size: 11px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; transition: background .2s; }
@@ -47,7 +47,7 @@ button, a, input, textarea { outline-offset: 6px; }
   .hero-role { font-size: 13px; }
   .hero-socials { margin-top: 28px; gap: 14px; }
   .hero-socials a { padding: 8px; }
-  .hero-portrait { width: 155%; max-width: none; right: -5%; }
+  .hero-portrait { width: 140%; max-width: none; right: -5%; }
   .introduction { padding: 40px 7%; }
   .intro-watermark { right: -90px; opacity: .4; }
 }
