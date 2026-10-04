@@ -11,7 +11,7 @@ export default function About() {
   return <section id="about" aria-labelledby="about-heading" className="about-section section-wrap text-center">
     <SectionHeading id="about-heading">About me</SectionHeading>
     <p className="section-description mx-auto">{profile.introduction}</p>
-    <a className="bracket-button inline-block" href="#services">Explore</a>
+    <a className="bracket-button inline-block" href="#projects">Explore</a>
     <Divider />
     <div id="services" className="services-grid mx-auto grid text-left md:grid-cols-2">
       {services.map(({ title, icon: Icon, text }) => <article key={title} className="service relative">
