@@ -38,9 +38,9 @@ export const skillGroups = [
     title: "Other skills",
     skills: [
       { name: "English", flag: "🇬🇧", level: "C1 / C2" },
-      { name: "Chinese", flag: "🇨🇳", level: "HSK 1" },
+      { name: "Mandarin", flag: "🇨🇳", level: "HSK 1" },
       { name: "C++", icon: "cplusplus" },
-      { name: "C", icon: "c" },
+      { name: "Java", icon: "java" },
     ],
   },
 ];
