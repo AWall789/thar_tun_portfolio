@@ -1,11 +1,11 @@
-import { PencilRuler, CodeXml, Settings } from 'lucide-react';
+import { PencilRuler, CodeXml, RefreshCw } from 'lucide-react';
 import SectionHeading from './SectionHeading';
 import Divider from './Divider';
 import { profile } from '../data/portfolio';
 const services = [
-  { title: 'Design', icon: PencilRuler, text: 'From an early idea to a polished interface, I design clear, thoughtful experiences around your needs and the people who use them.' },
-  { title: 'Development', icon: CodeXml, text: 'I bring designs to life with responsive, accessible websites, built with care and attention to the smallest interaction.' },
-  { title: 'Maintenance', icon: Settings, text: 'A great website keeps getting better. I help maintain, refine, and improve your site as your ideas and needs evolve.' },
+  { title: 'Design', icon: PencilRuler, text: 'I start by turning ideas into simple, practical interfaces. I focus on clean layouts, intuitive navigation, and experiences that feel natural to use.' },
+  { title: 'Development', icon: CodeXml, text: 'This is where ideas become real. I build responsive full-stack applications, connecting polished frontends with reliable backend systems, APIs, and databases.' },
+  { title: 'Improvement', icon: RefreshCw, text: 'I’m always looking for ways to make things better — whether that means improving performance, fixing problems, adding new features, or learning a better way to build.' },
 ];
 export default function About() {
   return <section id="about" aria-labelledby="about-heading" className="about-section section-wrap text-center">
